@@ -1,0 +1,43 @@
+
+/**
+ *
+ * What are you doing here ?
+ *
+ *
+ */
+
+ body{
+   background-color:  #22272a;
+ }
+
+ /* Dis is private. Plz go away  */
+
+
+#hello{
+font-family: 'Playfair Display', serif;
+text-align: center;
+color: white;
+font-size: 250px;
+margin-bottom: 0;
+}
+
+/* Well, you saw three crappy rules. Happy, eh ? */
+
+p{
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+#fb{
+  font-size: 10px;
+  margin-top: 200px;
+}
+
+
+a{
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+  color: white;
+}
